@@ -1,0 +1,4 @@
+package sh
+
+class testProgramm {
+}

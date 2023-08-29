@@ -1,0 +1,23 @@
+[ {
+  "lastname" : "dedededed",
+  "firstname" : "ede",
+  "street" : "ededed",
+  "postalCode" : "eded",
+  "city" : "eded",
+  "phone" : "efeded",
+  "email" : "44dsds@gmail.com",
+  "dateOfBirth" : "2005-08-09",
+  "dateOfBirthAsString" : "09.08.2005",
+  "age" : 17
+}, {
+  "lastname" : "zzjzjzj",
+  "firstname" : "edezjzjzjzj",
+  "street" : "ededed",
+  "postalCode" : "eded",
+  "city" : "eded",
+  "phone" : "efeded",
+  "email" : "44dsds@gmail.com",
+  "dateOfBirth" : "2005-08-09",
+  "dateOfBirthAsString" : "09.08.2005",
+  "age" : 17
+} ]
